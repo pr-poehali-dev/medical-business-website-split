@@ -36,9 +36,9 @@ const Index = () => {
 
           <div className="animate-fade-up" style={{ animationDelay: "0.35s" }}>
             <h1 className="text-white text-2xl md:text-3xl lg:text-4xl font-light leading-tight tracking-tight">
-              Ваш бизнес лечит всех,
+              Перестаньте лечить бизнес.
               <br />
-              <span className="font-semibold">кроме вашего кошелька?</span>
+              <span className="font-semibold">Начните лечить пациентов.</span>
             </h1>
           </div>
 
