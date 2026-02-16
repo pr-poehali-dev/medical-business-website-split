@@ -97,5 +97,11 @@
 
   body {
     @apply bg-background text-foreground;
+    overflow: hidden;
   }
+}
+
+.animate-fade-up {
+  opacity: 0;
+  animation: fade-up 0.8s ease-out forwards;
 }
